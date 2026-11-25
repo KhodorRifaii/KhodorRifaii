@@ -20,6 +20,7 @@
 - 🛠️ I build document chatbots (RAG), AI agents and machine learning models, from idea to a live demo
 - 🤖 Currently building a personal AI assistant that manages my tasks, email and job search, and coordinates a small team of AI agents
 - 💬 Ask me about RAG pipelines, LangChain, LLM apps, Python and Node.js
+- ♟️ Outside of code: chess, reading, running and tea
 - 🌐 Live projects: [AI Document Chatbot](https://responsive-ai-chatbot.onrender.com) · [BotOrNot](https://botornot7.vercel.app)
 
 ---
