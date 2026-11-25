@@ -10,16 +10,18 @@
 <a href="https://linkedin.com/in/khodorrifaii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:khodor@elrifaii.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
-
-**Away from the keyboard**
-
-<img src="https://img.shields.io/badge/%E2%99%9F-Chess-0f172a?style=flat-square&labelColor=2563eb" alt="Chess"/>
-<img src="https://img.shields.io/badge/%F0%9F%8F%83-Running-0f172a?style=flat-square&labelColor=2563eb" alt="Running"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%96-Reading-0f172a?style=flat-square&labelColor=2563eb" alt="Reading"/>
-<img src="https://img.shields.io/badge/%F0%9F%8D%B5-Tea-0f172a?style=flat-square&labelColor=2563eb" alt="Tea"/>
-
 </div>
+
+```python
+class Khodor:
+    def away_from_keyboard(self):
+        return {
+            "chess":   "planning five moves ahead",
+            "running": "my best debugging happens at km 5",
+            "reading": "always one more chapter",
+            "tea":     "fuel for every long build",
+        }
+```
 
 ---
 
