@@ -4,13 +4,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=620&lines=I+build+AI+products+that+work+end+to+end;Document+chatbots+that+answer+from+your+files;AI+agents+and+machine+learning+models;Open+to+roles" alt="Typing intro"/>
 
-<p align="center"><i>♟️ Chess player · 🏃 Always running · 🍵 Tea-powered · 📚 Always reading</i></p>
-
 <br/>
 
 <a href="https://elrifaii.com"><img src="https://img.shields.io/badge/Website-elrifaii.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://linkedin.com/in/khodorrifaii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:khodor@elrifaii.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+**Away from the keyboard**
+
+<img src="https://img.shields.io/badge/%E2%99%9F-Chess-0f172a?style=flat-square&labelColor=2563eb" alt="Chess"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%83-Running-0f172a?style=flat-square&labelColor=2563eb" alt="Running"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%96-Reading-0f172a?style=flat-square&labelColor=2563eb" alt="Reading"/>
+<img src="https://img.shields.io/badge/%F0%9F%8D%B5-Tea-0f172a?style=flat-square&labelColor=2563eb" alt="Tea"/>
 
 </div>
 
