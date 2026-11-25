@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=620&lines=I+build+AI+products+that+work+end+to+end;Document+chatbots+that+answer+from+your+files;AI+agents+and+machine+learning+models;Open+to+roles" alt="Typing intro"/>
 
-<br/><br/>
+<p align="center"><i>♟️ Chess player · 🏃 Always running · 🍵 Tea-powered · 📚 Always reading</i></p>
+
+<br/>
 
 <a href="https://elrifaii.com"><img src="https://img.shields.io/badge/Website-elrifaii.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://linkedin.com/in/khodorrifaii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -20,7 +22,6 @@
 - 🛠️ I build document chatbots (RAG), AI agents and machine learning models, from idea to a live demo
 - 🤖 Currently building a personal AI assistant that manages my tasks, email and job search, and coordinates a small team of AI agents
 - 💬 Ask me about RAG pipelines, LangChain, LLM apps, Python and Node.js
-- ♟️ Outside of code: chess, reading, running and tea
 - 🌐 Live projects: [AI Document Chatbot](https://responsive-ai-chatbot.onrender.com) · [BotOrNot](https://botornot7.vercel.app)
 
 ---
